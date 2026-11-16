@@ -1,0 +1,8 @@
+engine/target/
+data/raw/
+places/
+dist/
+shots/
+dbg/
+sandbox/.godot/
+*.import
